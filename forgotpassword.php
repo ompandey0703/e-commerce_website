@@ -20,7 +20,7 @@ if (isset($_POST['submit'])) {
     $token = $res['token'];
 
     $to = $useremail;
-    $from = "From: toshitpant0808@gmail.com";
+    $from = "From: ompandey0704.com";
     $subject = "password recovery";
     $body = "click on the given link to recover your password. http://localhost/NOSQLPROJECT/x.php?token=$token";
     mail($to, $subject, $body, $from);
