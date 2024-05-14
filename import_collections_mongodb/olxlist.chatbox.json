@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "6635d551b1a13f9b6914412b"
+  },
+  "question": "What are your shipping options?",
+  "answer": "We offer standard and expedited shipping options. Standard shipping usually takes 3-5 business days, while expedited shipping takes 1-3 business days."
+},
+{
+  "_id": {
+    "$oid": "6635d560b1a13f9b6914412c"
+  },
+  "question": "Do you offer international shipping?",
+  "answer": "Yes, we do offer international shipping to select countries. Shipping times and costs vary depending on the destination."
+},
+{
+  "_id": {
+    "$oid": "6635d5acb1a13f9b6914412d"
+  },
+  "question": "What is your return policy?",
+  "answer": "We offer a hassle-free return policy within 30 days of purchase. Items must be in their original condition with tags attached. Certain exclusions apply, so please refer to our return policy page for more details."
+},
+{
+  "_id": {
+    "$oid": "6635d5bab1a13f9b6914412e"
+  },
+  "question": "How can I track my order?",
+  "answer": "Once your order has been shipped, you will receive a tracking number via email. You can use this tracking number to track your order on our website or through our shipping partner's website."
+},
+{
+  "_id": {
+    "$oid": "6635d5c6b1a13f9b6914412f"
+  },
+  "question": "Are my payments secure on your website?",
+  "answer": "Yes, we take the security of your payments very seriously. We use industry-standard encryption technology to ensure that your payment information is safe and secure."
+},
+{
+  "_id": {
+    "$oid": "6635d5d1b1a13f9b69144130"
+  },
+  "question": "Do you offer gift wrapping services?",
+  "answer": "Yes, we offer gift wrapping services for a small additional fee. You can select this option during checkout and add a personalized message to your gift."
+},
+{
+  "_id": {
+    "$oid": "6635d5eab1a13f9b69144131"
+  },
+  "question": "What should I do if I receive a damaged or defective item?",
+  "answer": "If you receive a damaged or defective item, please contact our customer service team immediately. We will arrange for a replacement or refund as per our return policy."
+},
+{
+  "_id": {
+    "$oid": "6635d5f9b1a13f9b69144132"
+  },
+  "question": "How can I contact customer support?",
+  "answer": "You can contact our customer support team via email at support@example.com or by phone at 1-800-123-4567. Our support hours are Monday to Friday, 9:00 AM to 5:00 PM (EST)."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00075"
+  },
+  "question": "How can I edit my profile information?",
+  "answer": "You can edit your profile information by going to your account settings and selecting the 'Edit Profile' option."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00076"
+  },
+  "question": "Do you offer warranty on your products?",
+  "answer": "Warranty policies vary depending on the seller and the product. You can check the product description or contact the seller directly for warranty information."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00077"
+  },
+  "question": "Can I sell used items on your platform?",
+  "answer": "Yes, you can sell used items on our platform. Just create a listing and provide accurate information about the condition of the item."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00078"
+  },
+  "question": "What payment methods do you accept?",
+  "answer": "We accept various payment methods including credit/debit cards, online banking, and cash on delivery. The available options may vary depending on your location."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00079"
+  },
+  "question": "How can I report a suspicious user or listing?",
+  "answer": "If you encounter a suspicious user or listing, you can report them by clicking on the 'Report' button on the respective profile or listing page. Our team will investigate the issue promptly."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe0007a"
+  },
+  "question": "Are there any fees for listing items?",
+  "answer": "Listing items on our platform is generally free. However, there may be additional fees for certain premium features or services. You can check our fee structure for more details."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe0007b"
+  },
+  "question": "Can I negotiate the price with the seller?",
+  "answer": "Yes, you can negotiate the price with the seller directly through our messaging system. Just click on the 'Message Seller' button on the listing page to start a conversation."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe0007c"
+  },
+  "question": "Do you offer bulk discounts for purchasing multiple items?",
+  "answer": "Bulk discounts are offered at the discretion of individual sellers. You can inquire about bulk discounts directly with the seller through our messaging system."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe0007d"
+  },
+  "question": "How can I track my order?",
+  "answer": "Once your order is confirmed, you will receive a tracking number via email or SMS. You can use this tracking number to track the status of your order on our website or through the courier's website."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe0007e"
+  },
+  "question": "Do you have a mobile app?",
+  "answer": "Yes, we have a mobile app available for both Android and iOS devices. You can download it from the Google Play Store or the Apple App Store."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe0007f"
+  },
+  "question": "Is there a limit on the number of listings I can create?",
+  "answer": "There is no specific limit on the number of listings you can create. However, we encourage users to create quality listings that adhere to our guidelines."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00080"
+  },
+  "question": "Can I return an item if I'm not satisfied with it?",
+  "answer": "The return policy varies depending on the seller and the nature of the item. You can check the seller's return policy on the listing page before making a purchase."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00081"
+  },
+  "question": "How do I contact customer support?",
+  "answer": "You can contact our customer support team through the 'Contact Us' page on our website. Alternatively, you can reach out to us via email or phone during our business hours."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00082"
+  },
+  "question": "Do you verify sellers on your platform?",
+  "answer": "We have a verification process in place for sellers to help ensure the trustworthiness of our platform. However, users should also exercise caution and use their discretion when making transactions."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00083"
+  },
+  "question": "Can I share my listings on social media?",
+  "answer": "Yes, you can easily share your listings on various social media platforms directly from our website or mobile app. Just look for the share buttons on the listing page."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00084"
+  },
+  "question": "Are there any restrictions on the types of items I can sell?",
+  "answer": "While we allow a wide range of items to be sold on our platform, there are certain prohibited items such as weapons, drugs, and counterfeit goods. Please refer to our terms of service for more information."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00085"
+  },
+  "question": "How do I change my password?",
+  "answer": "You can change your password by going to your account settings and selecting the 'Change Password' option. Make sure to choose a strong and unique password to keep your account secure."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00086"
+  },
+  "question": "Do you offer international shipping?",
+  "answer": "International shipping options may vary depending on the seller and the destination country. You can check the shipping details on the listing page or contact the seller for more information."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00087"
+  },
+  "question": "Can I save listings to view later?",
+  "answer": "Yes, you can save listings to your favorites or watchlist for easy access later. Just click on the 'Save' or 'Add to Watchlist' button on the listing page."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00088"
+  },
+  "question": "How long does it take for a listing to be approved?",
+  "answer": "Listings are typically reviewed and approved within 24 hours. However, during peak times, it may take slightly longer. You will receive a notification once your listing is live."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe00089"
+  },
+  "question": "Do you offer any seller tools or analytics?",
+  "answer": "Yes, we provide various seller tools and analytics to help you track your sales performance and optimize your listings. You can access these tools through your seller dashboard."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe0008a"
+  },
+  "question": "Can I sell digital goods or services on your platform?",
+  "answer": "Yes, you can sell digital goods or services on our platform. Just make sure to accurately describe your offering and deliver it promptly to the buyer."
+},
+{
+  "_id": {
+    "$oid": "663830398f1690e9dbe0008b"
+  },
+  "question": "How do I delete my account?",
+  "answer": "If you wish to delete your account, please contact our customer support team and they will assist you with the process. Keep in mind that account deletion is permanent and irreversible."
+}]

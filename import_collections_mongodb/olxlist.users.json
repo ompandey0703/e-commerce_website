@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "66192e1f686caf28660a9bfc"
+  },
+  "userid": 1,
+  "username": "ToshitPant",
+  "useremail": "toshitpant0808@gmail.com",
+  "userphone": "9839023884",
+  "useraddress": "193/12 Shastri Nagar Kanpur, UP",
+  "userpassword": "$2y$10$kNjI92KyXl3TaaVE9.8KYuDcrm.aZlal5XB4qOcqZox3ghj.gAs4y",
+  "status": "blocked",
+  "token": "2045644afb5887014613a27626f802"
+},
+{
+  "_id": {
+    "$oid": "66193425686caf28660a9bfd"
+  },
+  "userid": 2,
+  "username": "toshit",
+  "useremail": "22bcs254@iiitdmj.ac.in",
+  "userphone": "7894546464",
+  "useraddress": "78/89 sdfsdfdsf",
+  "userpassword": "$2y$10$DLachjxYXdjh1mHTSX6w8e6eR5WTqHRei1SiPgVepV2EC1Mv8wbRW",
+  "status": "active",
+  "token": "8ef5104508ddb6f01ad00eb731f759"
+},
+{
+  "_id": {
+    "$oid": "6625ff7668ad24cf9c0cfe25"
+  },
+  "userid": 3,
+  "username": "pkj",
+  "useremail": "22bcs193@iiitdmj.ac.in",
+  "userphone": "7894546464",
+  "useraddress": "78/89 sdfsdfdsf",
+  "userpassword": "$2y$10$xVN909lfbnWuWfbux5rCe.zcv3TrCE6NQ7tkbYmJZcnITTkPPrYHW",
+  "status": "active",
+  "token": "d502b9d40df44a6d58170f8975762e"
+},
+{
+  "_id": {
+    "$oid": "6638229c16f1b9d222055794"
+  },
+  "userid": 4,
+  "username": "toshit2",
+  "useremail": "toshit2@hello.in",
+  "userphone": "123456789",
+  "useraddress": "hall 4",
+  "userpassword": "$2y$10$prV7vTxYsMHrC/LQpCmdseska/zSAXdj7L0CZYy7fhaELsT37GaoK",
+  "status": "active",
+  "token": "b864aa7b777cc7e71a0ae7ffa4148c"
+},
+{
+  "_id": {
+    "$oid": "66386a2bd60d0c5ec408ec96"
+  },
+  "userid": 5,
+  "username": "Lokesh",
+  "useremail": "22bcs149@iiitdmj.ac.in",
+  "userphone": "09839023884",
+  "useraddress": "hall 4",
+  "userpassword": "$2y$10$pnqasZ/Gnnzy33/cq4H67OZVcRGPkO8jTZ6tgYJ4SZ4VnsSd0EO6y",
+  "status": "active",
+  "token": "eb2b64e1611f776cf066e42709663c"
+},
+{
+  "_id": {
+    "$oid": "6638785da3811a99d7047db4"
+  },
+  "userid": 6,
+  "username": "lokesh2",
+  "useremail": "lucky615b@gmail.com",
+  "userphone": "09839023884",
+  "useraddress": "hall 4",
+  "userpassword": "$2y$10$I6mQZEV2qw91WunhzW/BRehVA0sSGAyg3.8LzlouVHM1ul/wAAmKu",
+  "status": "active",
+  "token": "4bbcc2bc29234df8012740d16e063f"
+}]

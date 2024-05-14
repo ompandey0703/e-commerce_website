@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "66199855686caf28660a9c1a"
+  },
+  "reportid": 1,
+  "reporterid": 2,
+  "victimid": 2,
+  "itemid": 1,
+  "reportdesc": "duplicate product",
+  "reportstatus": "pending"
+},
+{
+  "_id": {
+    "$oid": "66199886686caf28660a9c1b"
+  },
+  "reportid": 2,
+  "reporterid": 2,
+  "victimid": 2,
+  "itemid": 1,
+  "reportdesc": "wrong image",
+  "reportstatus": "pending"
+}]

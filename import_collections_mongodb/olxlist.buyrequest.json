@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6619a26a686caf28660a9c1d"
+  },
+  "customerid": 2,
+  "itemid": 1
+},
+{
+  "_id": {
+    "$oid": "6625ffc968ad24cf9c0cfe26"
+  },
+  "customerid": 3,
+  "itemid": 1
+},
+{
+  "_id": {
+    "$oid": "6635eb7edd4db8e88f022425"
+  },
+  "customerid": 1,
+  "itemid": 2
+},
+{
+  "_id": {
+    "$oid": "66373bde16f1b9d222055786"
+  },
+  "customerid": 1,
+  "itemid": 1
+},
+{
+  "_id": {
+    "$oid": "6638230516f1b9d222055795"
+  },
+  "customerid": 4,
+  "itemid": 3
+},
+{
+  "_id": {
+    "$oid": "6638234916f1b9d222055796"
+  },
+  "customerid": 4,
+  "itemid": 1
+},
+{
+  "_id": {
+    "$oid": "663823d816f1b9d222055797"
+  },
+  "customerid": 4,
+  "itemid": 5
+},
+{
+  "_id": {
+    "$oid": "663823ee16f1b9d222055798"
+  },
+  "customerid": 4,
+  "itemid": 6
+},
+{
+  "_id": {
+    "$oid": "66382e7c16f1b9d2220557a3"
+  },
+  "customerid": 1,
+  "itemid": 5
+},
+{
+  "_id": {
+    "$oid": "66386ac9d60d0c5ec408ec98"
+  },
+  "customerid": 1,
+  "itemid": 7
+},
+{
+  "_id": {
+    "$oid": "663878c0a3811a99d7047db6"
+  },
+  "customerid": 1,
+  "itemid": 8
+}]

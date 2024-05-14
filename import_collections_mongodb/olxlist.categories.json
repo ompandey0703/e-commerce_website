@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6618e51ca9ea2ad52f6a8d4b"
+  },
+  "categoryid": 1,
+  "categoryname": "Books",
+  "categorylogo": "book_logo.png"
+},
+{
+  "_id": {
+    "$oid": "6618e51ca9ea2ad52f6a8d4c"
+  },
+  "categoryid": 2,
+  "categoryname": "Electronics",
+  "categorylogo": "electronics_logo.png"
+},
+{
+  "_id": {
+    "$oid": "6618e51ca9ea2ad52f6a8d4d"
+  },
+  "categoryid": 3,
+  "categoryname": "Clothing",
+  "categorylogo": "clothing_logo.png"
+},
+{
+  "_id": {
+    "$oid": "6618e5f2a9ea2ad52f6a8d4e"
+  },
+  "categoryid": 4,
+  "categoryname": "Furniture",
+  "categorylogo": "furniture.png"
+}]

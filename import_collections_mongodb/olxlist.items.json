@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "66194361686caf28660a9c03"
+  },
+  "itemid": 1,
+  "sellerid": 2,
+  "categoryid": 4,
+  "itemname": "sofa set",
+  "itemcondition": "new",
+  "itemdescription": "3 seater sofa set",
+  "itempic": "upload/Screenshot 2024-04-12 194034.png",
+  "itemprice": "10000",
+  "itemstatus": "available"
+},
+{
+  "_id": {
+    "$oid": "6625e31988051bfe29086676"
+  },
+  "itemid": 2,
+  "sellerid": 2,
+  "categoryid": 1,
+  "itemname": "book",
+  "itemcondition": "new",
+  "itemdescription": "hgdhkasbd",
+  "itempic": "upload/Screenshot 2023-09-04 221748.jpg",
+  "itemprice": "1000",
+  "itemstatus": "available"
+},
+{
+  "_id": {
+    "$oid": "6625ff0168ad24cf9c0cfe24"
+  },
+  "itemid": 3,
+  "sellerid": 2,
+  "categoryid": 1,
+  "itemname": "book2",
+  "itemcondition": "1 year old",
+  "itemdescription": "hgchgnhcgh",
+  "itempic": "upload/Screenshot 2023-09-04 221748.jpg",
+  "itemprice": "500",
+  "itemstatus": "available"
+},
+{
+  "_id": {
+    "$oid": "6637b83416f1b9d22205578a"
+  },
+  "itemid": 4,
+  "sellerid": 1,
+  "categoryid": 3,
+  "itemname": "shirts",
+  "itemcondition": "new",
+  "itemdescription": "sdfasdf",
+  "itempic": "upload/clothing_logo.png",
+  "itemprice": "500",
+  "itemstatus": "not available"
+},
+{
+  "_id": {
+    "$oid": "6637bd2616f1b9d22205578b"
+  },
+  "itemid": 5,
+  "sellerid": 1,
+  "categoryid": 3,
+  "itemname": "shirt",
+  "itemcondition": "new",
+  "itemdescription": "hsdfjsdfjkh",
+  "itempic": "upload/messi.jpg",
+  "itemprice": "500",
+  "itemstatus": "available"
+},
+{
+  "_id": {
+    "$oid": "6637c09816f1b9d22205578c"
+  },
+  "itemid": 6,
+  "sellerid": 1,
+  "categoryid": 2,
+  "itemname": "tv",
+  "itemcondition": "new",
+  "itemdescription": "fdsfadsfadsf",
+  "itempic": "upload/electronics_logo.png",
+  "itemprice": "10000",
+  "itemstatus": "not available"
+},
+{
+  "_id": {
+    "$oid": "66386a94d60d0c5ec408ec97"
+  },
+  "itemid": 7,
+  "sellerid": 5,
+  "categoryid": 1,
+  "itemname": "griffith",
+  "itemcondition": "new",
+  "itemdescription": "griffith book",
+  "itempic": "upload/Screenshot 2024-05-06 105836.png",
+  "itemprice": "1000",
+  "itemstatus": "available"
+},
+{
+  "_id": {
+    "$oid": "6638789aa3811a99d7047db5"
+  },
+  "itemid": 8,
+  "sellerid": 6,
+  "categoryid": 1,
+  "itemname": "book griffith",
+  "itemcondition": "new",
+  "itemdescription": "ydytfdgfh",
+  "itempic": "upload/Screenshot 2024-05-06 105836.png",
+  "itemprice": "1000",
+  "itemstatus": "not available"
+}]
