@@ -1,13 +1,42 @@
-<<<<<<< HEAD
-# e-commerce_website
+# E-Commerce Website
 
-This is an e commerce website project using PHP for backend and MONGODB for databse.
+This project is an e-commerce website built using PHP for the backend and MongoDB for the database. It's designed to provide a platform for users to buy and sell products online.
 
-To run this project : connect xampp (Apache server) from mongodb. Save project in xampp -> htdocs. Create database "olxlist" in mongodb. Import collections from the folder provided ("import_collections_mongodb").
+## Features
 
-Setup your xampp smtp to send mails.
+- User registration and login: New users can sign up and existing users can log in.
+- Product listing: Sellers can list their products for sale.
+- Search and browse products: Buyers can search and browse listed products.
+- Buy request: Buyers can send a buy request to the seller.
+- Email notifications: Users receive email notifications for buy requests.
 
-user login :- signup as a new user
+## Setup and Running
 
-admin login section :- admin mail id = "ompandey0704@gmail.com" admin password = "Om@2004" 
+To run this project, follow these steps:
 
+1. Connect XAMPP (Apache server) to MongoDB.
+2. Save the project in the `htdocs` folder of your XAMPP installation.
+3. Create a database named "olxlist" in MongoDB.
+4. Import collections from the provided folder ("import_collections_mongodb").
+5. Set up your XAMPP SMTP to send mails.
+
+## User Login
+
+To log in as a user, sign up as a new user.
+
+## Admin Login
+
+To log in as an admin:
+
+- Email: ompandey0704@gmail.com
+- Password: Om@2004
+
+## Tutorials
+
+For more detailed instructions and tutorials, see the [Tutorials](./Tutorials) folder.
+
+## Future Enhancements
+
+- Implement a shopping cart for users to add multiple products and checkout.
+- Add a rating and review system for buyers to rate and review products and sellers.
+- Implement a secure payment gateway for online transactions.
